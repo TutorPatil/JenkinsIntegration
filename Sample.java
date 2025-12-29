@@ -1,8 +1,8 @@
 public class Sample{
 
 public static void main(String[] args)
-  {
-    System.out.println("Job getting trigger from jenkins");
+  { 
+    System.out.println("Job getting trigger from jenkins DONE!!");
     
   }
 
